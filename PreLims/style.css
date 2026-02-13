@@ -575,7 +575,8 @@ ul, li {
     overflow: hidden;   
 }
 body {
-background-color: #FBF8F5;
+    zoom: 0.8;
+    background-color: #FBF8F5;
     height: 100vh;     
     height: 100dvh;      
     width: 100vw;    
@@ -735,4 +736,5 @@ background-color: #FBF8F5;
 
 html {
   scroll-behavior: smooth;
+
 }
